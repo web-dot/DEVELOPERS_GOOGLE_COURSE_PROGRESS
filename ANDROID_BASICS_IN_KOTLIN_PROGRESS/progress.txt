@@ -8,6 +8,10 @@ PATHWAY 1 :
 Navigate between screens - 
 COMPLETED - 07.09.2023
 
+repos:
+https://github.com/web-dot/AND3.1.2-Navigation-ActivityLifecycle.git
+https://github.com/web-dot/AND3.1.1-Navigation-ActivityAndIntent.git
+
 PATHWAY 2 :
 Introduction to the Navigation component - 
  
