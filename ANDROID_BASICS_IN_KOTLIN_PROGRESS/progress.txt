@@ -2,9 +2,42 @@ Android Basics in Kotlin  - https://developer.android.com/courses/android-basics
 ==============================================================================================
 
 
-Unit 3 : Navigation
+================
+Unit 1 : Basics
+================
 
-PATHWAY 1 : 
+PATHWAY 3 :
+~~~~~~~~~~~ 
+COMPLETED - 09.09.2023
+
+Views			- UI ELEMENTS
+ViewGroup		- CONTAINER OF VIEWS
+TextView, ImageView	- TYPES OF VIEW
+Attributes		- VIEW ATTRIBUTES	
+Layout Editor		- 
+ConstraintLayout	- kind of ViewGroup
+String Resource		- string resource
+
+repos:
+https://github.com/web-dot/AND1.3-ViewsAndLayoutBasic.git
+
+PATHWAY 4 : 
+~~~~~~~~~~~
+
+Activity
+GETTING VIEW REFERENCE USING findViewById() method
+ADDING EVENT LISTENER USING setOnClickListener() method
+
+repos:
+https://github.com/web-dot/AND1.4-ViewItemReference.git
+
+===================
+Unit 3 : Navigation
+===================
+
+PATHWAY 1 :
+~~~~~~~~~~~
+ 
 Navigate between screens - 
 COMPLETED - 07.09.2023
 
@@ -13,6 +46,8 @@ https://github.com/web-dot/AND3.1.2-Navigation-ActivityLifecycle.git
 https://github.com/web-dot/AND3.1.1-Navigation-ActivityAndIntent.git
 
 PATHWAY 2 :
+~~~~~~~~~~~
+
 Introduction to the Navigation component - 
  
 
