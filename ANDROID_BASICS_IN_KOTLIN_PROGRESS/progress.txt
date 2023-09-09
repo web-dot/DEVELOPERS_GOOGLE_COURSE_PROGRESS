@@ -23,10 +23,16 @@ https://github.com/web-dot/AND1.3-ViewsAndLayoutBasic.git
 
 PATHWAY 4 : 
 ~~~~~~~~~~~
+COMPLETED - 10-09-2023
+
+add TextView & ImageView 
+update TextView & ImageView on buton click(dice roller app)
 
 Activity
 GETTING VIEW REFERENCE USING findViewById() method
 ADDING EVENT LISTENER USING setOnClickListener() method
+UPDATE IMAGE-VIEW/TEXT-VIEW ON BUTTON CLICK
+
 
 repos:
 https://github.com/web-dot/AND1.4-ViewItemReference.git
